@@ -7995,6 +7995,11 @@ h1, h2, h3, h4, h5,
   -ms-border-radius: 50%;
   border-radius: 50%; }
 
+  .ftco-footer .overlay {
+  pointer-events: none;
+}
+
+
 .menu-wrap .text h3 {
   font-size: 22px; }
   .menu-wrap .text h3 a {
